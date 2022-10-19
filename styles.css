@@ -98,7 +98,7 @@ li a {
 
 
 li a:hover{
-    background-color: black;
+    background-color:  rgba(136,203,171,1);
 }
 
 
@@ -132,7 +132,7 @@ li a:hover{
 
 /* Footer Styles */
 .page__footer {
-    background: #000;
+    background:  rgba(136,203,171,1);
     padding: 3em;
     color: #fff;
 }
